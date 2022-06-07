@@ -1,6 +1,6 @@
 
 # AGYL
-<img src="./img/logo.png" alt="logo">
+<img src="./img/logo.png" alt="logo" style="width: 100px ;">
 
 
 ## 1- CADASTRO DE ALUNO
