@@ -1,11 +1,11 @@
 #---------------------------Menu--------------------------
-# 1- CADASTRO DE ALUNO
+## 1- CADASTRO DE ALUNO
 <img src="./img/aluno.png" alt="menu">
 
-# 2- CADASTRO DE HORAS PARA ALUNO
+## 2- CADASTRO DE HORAS PARA ALUNO
 <img src="./img/horas.png" alt="menu">
 
-# 3- CADASTRO DE CRIAÇÃO DE MODALIDADE
+## 3- CADASTRO DE CRIAÇÃO DE MODALIDADE
 <img src="./img/modalidade.png" alt="menu">
 
 ## ☕ Introdução
