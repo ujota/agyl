@@ -1,3 +1,4 @@
+#.
 <img src="./img/logo.png" alt="logo" style="width: 200px ;">
 
 
@@ -25,6 +26,6 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você tem uma máquina Windows / Linux / Mac.
 * Você tem instalado a versão 8 do JAVA no seu computador ou superior.
 
-[⬆ Voltar ao topo](<img>)<br>
+[⬆ Voltar ao topo](#.)<br>
 
 
