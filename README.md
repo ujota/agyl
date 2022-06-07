@@ -1,4 +1,8 @@
 # AGYL
+## LOGO
+<img src="./img/logo.png" alt="logo">
+
+
 ## 1- CADASTRO DE ALUNO
 <img src="./img/aluno.png" alt="menu">
 
