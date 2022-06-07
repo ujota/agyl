@@ -1,11 +1,11 @@
-#---------------------------Menu--------------------------
-# 1- CADASTRO DE ALUNO
+# AGYL
+## 1- CADASTRO DE ALUNO
 <img src="./img/aluno.png" alt="menu">
 
-# 2- CADASTRO DE HORAS PARA ALUNO
+## 2- CADASTRO DE HORAS PARA ALUNO
 <img src="./img/horas.png" alt="menu">
 
-# 3- CADASTRO DE CRIAÇÃO DE MODALIDADE
+## 3- CADASTRO DE CRIAÇÃO DE MODALIDADE
 <img src="./img/modalidade.png" alt="menu">
 
 ## ☕ Introdução
@@ -23,5 +23,6 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você tem uma máquina Windows / Linux / Mac.
 * Você tem instalado a versão 8 do JAVA no seu computador ou superior.
 
-[⬆ Voltar ao topo](#Sistema-Gerenciador-de-Biblioteca)<br>
+[⬆ Voltar ao topo](#AGYL)<br>
+
 
