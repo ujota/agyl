@@ -1,4 +1,4 @@
-## 💻 --------------AGYL--------------
+## 💻 --------------AGYL-------------- 💻
 ## 1- CADASTRO DE ALUNO
 <img src="./img/aluno.png" alt="menu">
 
