@@ -8,10 +8,8 @@
 <img src="./img/horas.png" alt="menu">
 
 ## 3- CADASTRO DE CRIAÇÃO DE MODALIDADE
-<img src="./img/modalidade.png" alt="menu">
+<img src="./img/banco.png" alt="menu">
 
-## 4- Um pouco do  nosso codigo de  Banco de Dados
-<img src="./img/modalidade.png" alt="banco_dados">
 ## ☕ Introdução
 
 Este projeto é um projeto integrador, que foi realizado na materia de Tópicos Especiais Em Tecnologia no curso de Analise e Desenvolvimento de Sistemas. 
