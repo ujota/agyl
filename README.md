@@ -10,7 +10,7 @@
 ## 3- CADASTRO DE CRIAÇÃO DE MODALIDADE
 <img src="./img/modalidade.png" alt="modalidade">
 
-## 4- Puco codigo do Banco
+## 4- UM PUCO DO CODIGO DE BANCO DE DADOS
 <img src="./img/banco.png" alt="banco">
 
 ## ☕ Introdução
