@@ -8,7 +8,7 @@
 <img src="./img/horas.png" alt="menu">
 
 ## 3- CADASTRO DE CRIAÇÃO DE MODALIDADE
-<img src="./img/banco.png" alt="menu">
+<img src="./img/banco.png" alt="banco">
 
 ## ☕ Introdução
 
