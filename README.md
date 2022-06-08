@@ -2,12 +2,15 @@
 
 
 ## 1- CADASTRO DE ALUNO
-<img src="./img/aluno.png" alt="menu">
+<img src="./img/aluno.png" alt="aluno">
 
 ## 2- CADASTRO DE HORAS PARA ALUNO
-<img src="./img/horas.png" alt="menu">
+<img src="./img/horas.png" alt="horas">
 
 ## 3- CADASTRO DE CRIAÇÃO DE MODALIDADE
+<img src="./img/modalidade.png" alt="modalidade">
+
+## 4- Puco codigo do Banco
 <img src="./img/banco.png" alt="banco">
 
 ## ☕ Introdução
