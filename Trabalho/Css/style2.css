@@ -1,0 +1,99 @@
+    
+.table2{
+    position: absolute;
+    top: 70px;
+    
+    
+    
+  
+}
+
+.adcH{
+    cursor: cell;
+    margin-bottom: 5px;
+    margin-left: 240px;
+    background-color: lime;
+    padding: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: 'Arial';
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+
+.adcH:hover{
+background-color: #ffd900;
+
+}
+.text{
+    margin-bottom: 3px;
+    margin-left: 470px;
+    width: 250px;
+    font-size: 18px;
+    font-family: 'arial';
+    
+   
+
+}
+
+
+
+.nome1{
+    color: rgb(3, 157, 3);
+}
+
+.QuadroAmarelo{
+    background-color: #ffd900;
+    margin-left: 480px;
+    font-size: 20pt;
+    font-weight: bold;
+    font-family: 'arial';
+    width: 230px;
+    padding: 40px;
+    border: 1px solid gray;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-right: transparent;
+    color: #ffff;
+    text-align: center;
+    
+    
+}
+
+.QuadroT{
+    position: absolute;
+    border: 1px solid gray;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: 'arial';
+    padding: 37.5px;
+    bottom: 3px;
+    left: 790px;
+    width: 270px; 
+    border-left: transparent;
+    border-top-style: double;
+    margin-right: 10px;
+    text-align: center;
+    color: black;
+    
+    
+    
+    
+
+}
+
+.con{
+    line-height: 0.8;
+    font-size: 12px;
+}
+.hr{
+    line-height: 0.8;
+    font-size: 30pt;
+    
+
+}
+

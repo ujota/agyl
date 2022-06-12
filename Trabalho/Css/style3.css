@@ -1,0 +1,90 @@
+.table3 {
+    position: absolute;
+    text-align: center;
+    top: 250px;
+    left: 452px;
+    
+    
+}
+
+.qd{
+    bottom: 50px;
+    position: relative;
+    width: 192px;
+    height: 120px;
+    border: 2px solid rgb(148, 147, 147);
+    border-left-color: rgb(245, 243, 243);
+    border-top-color: rgb(245, 243, 243);
+    border-radius: 8px;
+    box-shadow: 5px 3px 3px rgb(240, 239, 239);
+   
+    
+
+}
+
+
+
+.circular-progresso,
+.circular-progresso2,
+.circular-progresso3,
+.circular-progresso4,
+.circular-progresso5,
+.circular-progresso6{
+    position: relative;
+    height: 60px;
+    width: 60px;
+    top: 30px;
+    left: 65px;
+    background-color: orange;
+    border-radius: 60%;
+    display: grid;
+    place-items: center;
+    border: 1px solid #f3f3f3;
+    
+}
+
+
+
+
+.circular-progresso::before,
+.circular-progresso2::before,
+.circular-progresso3::before,
+.circular-progresso4::before,
+.circular-progresso5::before,
+.circular-progresso6::before{
+content: "";
+position: absolute;
+height: 74%;
+width: 74%;
+background-color: #ffff;
+border-radius: 60%;
+border: 1px solid #f3f3f3;
+}
+
+.value-circulo,
+.value-circulo2,
+.value-circulo3,
+.value-circulo4,
+.value-circulo5,
+.value-circulo6{
+    position: relative;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    color: black;
+
+}
+
+p{
+    position: absolute;
+    margin: auto;
+    bottom: 5px;
+    text-align: center;
+    width: 100%;
+    
+
+}
+
+.tr1{
+    position: relative;
+    bottom: 50px;
+}
