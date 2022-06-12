@@ -27,7 +27,10 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 * Você ter uma máquina Windows / Linux / Mac.
 * Você ter instalado a versão 8 do JAVA no seu computador ou superior.
-
+* Você ter instalado a versão python 3.10 ou equivalente.
+* Ter instalado a o gerenciador de pacotes pip.
+* Instalar o pacote pip install djangorestframework.
+* Intalar o pacote pip install django-filter.
 
 
 
